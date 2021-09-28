@@ -49,4 +49,4 @@ git config --global user.email "coloque seu email"
 git config --global user.name "coloque seu nickname"
   
   <h1>Finalização</h1>
-<p>Projeto de estudo do GIT criado com conteúdo fornecido pelo bootcamp da One.
+<p>Projeto de estudo do GIT criado com conteúdo fornecido pelo bootcamp da Digital Innovation One.
