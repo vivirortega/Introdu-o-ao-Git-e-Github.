@@ -29,7 +29,18 @@ Unix:
 - ls
 - mkdir
 - rm -rf
-
+  
+  <h2>Estados</h2>
+  <ul>
+<li>Modificado (modified);</li>
+<li>Preparado (staged/index);</li>
+    <li>Consolidado (comitted);</li>
+    
+ <h1>Repositório Local</h1>
+    <h2>Criar novo repositório: </h2>
+    <br>
+      git init
+    
 <h3>Criando um repositório.</h3> 
 
 <p>Crie uma pasta no seu diretório :C com o nome que desejar, ex "workspace".
